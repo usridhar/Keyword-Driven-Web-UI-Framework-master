@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Generate Auto Quote]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2020-11-01T23:32:07Z" name="com.prac.tests.AutoQuoteTest" finished-at="2020-11-01T23:32:27Z" duration-ms="20463">
+    <groups>
+    </groups>
+    <test started-at="2020-11-01T23:32:07Z" name="Command line test" finished-at="2020-11-01T23:32:27Z" duration-ms="20463">
+      <class name="com.prac.tests.AutoQuoteTest">
+        <test-method signature="autoQuoteTest()[pri:1, instance:com.prac.tests.AutoQuoteTest@307f6b8c]" started-at="2020-11-01T23:32:07Z" name="autoQuoteTest" finished-at="2020-11-01T23:32:27Z" duration-ms="20440" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Generate Auto Quote]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- autoQuoteTest -->
+      </class> <!-- com.prac.tests.AutoQuoteTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.prac.tests.AutoQuoteTest -->
+</testng-results>
